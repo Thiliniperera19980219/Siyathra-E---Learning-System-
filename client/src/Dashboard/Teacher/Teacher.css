@@ -1,0 +1,74 @@
+.uploaded-files a{
+  text-align: left;
+}
+
+
+
+.uploadtitle{
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgb(155, 155, 165);
+  border: 5px solid rgb(191, 177, 196);
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.lecnote{
+  margin-left: 40px;
+  margin-top: 20px;
+  text-decoration: none;
+  border-bottom: 2px dashed grey;
+}
+
+.notelink{
+  text-align: left;
+}
+
+.upload{
+ margin-top: 33px;
+ border-radius: 0;
+
+}
+
+.deletefiles{
+  margin-top: 33px;
+  border-radius: 0;
+  margin-left: 4px;
+}
+
+.uploadfile{
+  margin-top: 9px;
+}
+
+.uploadsec{
+  background-color: rgb(248, 251, 252);
+  margin-top: 40px;
+}
+
+.topiclec{
+  margin-top: 20px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+
+.deletecheck{
+  text-align: right;
+  
+}
+
+
+  .tab h4{
+    background-color: rgb(138, 148, 215);
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 10px;
+}
+.topicattendance{
+  text-align: center;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

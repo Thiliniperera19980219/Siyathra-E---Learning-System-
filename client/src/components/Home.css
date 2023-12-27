@@ -1,0 +1,83 @@
+
+
+
+.home-content{
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url(../images/bg3.jpg);
+    background-size: cover; 
+    background-position: center center; 
+    
+  }
+  
+
+  .home-content h2 {
+    font-family: 'Poppins', serif;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+    line-height: 60px;
+  }
+  
+  .home-content h3 {
+    font-size: 18px;
+    font-weight: 400;
+    text-align: left;
+    line-height: 25px;
+    color: rgb(255, 255, 255);
+  }
+  
+  .home-content .lmsbtn {
+    background-color: #460691;
+    border: 1px solid #460691;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    padding: 13px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 400;
+    height: 55px;
+    width: 180px;
+    box-shadow: 0 1px 5px #460691;
+  }
+  
+  /* Add media queries for responsiveness */
+  @media (max-width: 768px) {
+    .home-content h2 {
+      font-size: 32px;
+      line-height: 48px;
+    }
+  
+    .home-content h3 {
+      font-size: 16px;
+      line-height: 22px;
+    }
+  
+    .home-content .lmsbtn {
+      font-size: 14px;
+      padding: 10px 20px;
+      height: 45px;
+      width: 150px;
+    }
+  }
+  
+  /* Add more media queries for smaller screens if needed */
+  
+
+    .home-content .lmsbtn:hover{
+        background-color: white;
+        color: black;
+        font-weight: 400;
+    }
+
+   
+    
+
+
+      

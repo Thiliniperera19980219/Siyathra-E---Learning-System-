@@ -1,0 +1,35 @@
+.account-table td{
+   justify-content: center;
+}
+
+.account-table th{
+    background-color: rgb(79, 29, 194);
+}
+.account-table .edituser{
+    background-color: rgb(46, 105, 232);
+    margin-left: 50px;
+    border-style: none;
+}
+.account-table .edituser:hover{
+    color: white;
+}
+.account-table .deluser:hover{
+    color: white;
+}
+.account-table .deluser{
+    background-color: red;
+    margin-left: 50px;
+    border-style: none;
+    color: white;
+}
+
+.create{
+    border-radius: 0px;
+    width: 140px;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 0px;
+}
+.indexacc{
+    margin: 10px;
+}

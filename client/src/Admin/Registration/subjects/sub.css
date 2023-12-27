@@ -1,0 +1,16 @@
+
+.savesubbtn{
+    width:160px;
+    height: 40px;
+    border-radius: 0px;
+}
+
+.subjects h4{
+    text-align: center;
+    color: #460691;
+    margin-top: 20px;
+}
+
+.filter{
+    margin-top: 40px;
+}

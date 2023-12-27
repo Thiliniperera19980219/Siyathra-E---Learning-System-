@@ -1,0 +1,65 @@
+.profilepage h4{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: 400;
+    
+}
+/* Set the custom div style */
+.custom-div {
+    height: 50px;
+    background-color: #dadfe3; 
+    margin-top: 10px;
+  }
+
+  .custom-div h1{
+    font-size: 30px;
+    font-weight: 300;
+    padding-top: 08px;
+    padding-left: 10px;
+  }
+  
+
+
+  .form .gender{
+    padding-top: 10px;
+  }
+  .profileh{
+    background-color: rgb(138, 148, 215);
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 40px;
+}
+
+ .qrcode .qrimg{
+  margin-top: 10px;
+}
+
+.qrcode .btnqrcode{
+    width: 100px;
+    float: right;
+    background-color: rgb(21, 136, 224);
+    border-style: none;
+   
+}
+
+.profilesub p{
+  text-align: left;
+  color: black;
+  font-weight: bold;
+}
+
+.btnprofilepic{
+  border-radius: 0;
+  margin-top: 22px;
+  
+}
+
+.profilepic{
+margin-left: 600px;
+margin-top: 10px;
+border: 1px solid black;
+}

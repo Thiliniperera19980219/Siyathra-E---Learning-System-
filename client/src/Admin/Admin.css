@@ -1,0 +1,85 @@
+.header{
+    font-weight: 400;
+}
+
+.tabadmin{
+    margin-top: 90px;
+}
+.AdminPanal h4{
+    font-family: 'Poppins',sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+}
+.AdminPanal Nav{
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+}
+
+.AdminPanal .tab h1{
+    text-align: center;
+}
+.AdminPanal .loginnav{
+    padding-right: 100px;
+}
+
+.login-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+  }
+.savebtn{
+    background-color: #460691;
+    border: 1px solid #460691;
+    border-radius: 0px;
+    color: rgb(255, 255, 255);
+    padding: 13px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 400;
+    height: 50px;
+    width: 140px;
+    box-shadow: 0 1px 5px #460691;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin-top: 20px;
+}
+
+.sidebar{
+    background-color: rgb(15, 3, 27);
+    height: 690px;
+    width: 241px;
+  }
+  
+  .sidebar .navitem{
+    text-align: left;
+    align-items: last baseline;
+    
+  }
+  .sidebar .navlink{
+  text-align: left;
+  float: left;
+  background-color: rgb(15, 3, 27);
+  border-radius: 0px;
+  width: 229px;
+  margin-left: 0;
+  color: white;
+  font-size: 16px;
+  }
+
+.tab h4{
+    background-color: rgb(138, 148, 215);
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h5{
+    margin-top: 50px;
+    padding-left: 26px;
+}
+
+
